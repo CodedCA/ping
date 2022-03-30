@@ -2,6 +2,6 @@
 
 **This project  is subject to change!**
 
-I made this project to test my HTML, JS and CSS skills.
+I made this project to test my Python skills.
 
 ![website image](/src/ping.jpg)
